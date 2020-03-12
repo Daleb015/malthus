@@ -12,4 +12,6 @@ public class MalthusResponseDTO {
 	private Double inoculo;
 	//Cantidad de bacterias por ml
 	private Double cantidad;
+	
+	private String msgError;
 }
